@@ -1,6 +1,4 @@
-Certainly! Here is the complete README content in markdown format:
 
-```markdown
 # Student Grades Analysis
 
 ## Project Description
